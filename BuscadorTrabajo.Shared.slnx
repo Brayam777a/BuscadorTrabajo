@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="BuscadorTrabajo.Frontend/BuscadorTrabajo.Frontend.csproj" Id="1f8620b3-f33a-4c07-89bf-665961b05acf" />
+  <Project Path="BuscadorTrabajo.Shared/BuscadorTrabajo.Shared.csproj" />
+  <Project Path="BuscadorTrabajo.WebAPI/BuscadorTrabajo.WebAPI.csproj" />
+</Solution>
